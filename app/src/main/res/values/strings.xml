@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="enter">Ingresar</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="menu_logout">Logout</string>
+    <string name="btn_continue">Confirmar</string>
+    <string name="latest_movements">Últimos movimientos</string>
+    <string name="title_toolbar_statement">Detalle de cuenta</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
